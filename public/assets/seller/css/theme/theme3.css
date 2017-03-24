@@ -1,0 +1,44 @@
+.headerbgcolor
+{
+    background: #4d2600;
+}
+.footerbgcolor
+{
+    background: #331a00;
+}
+.mainfont
+{
+	color: #f2e6d9;
+    margin-left: 5%;
+    font-family: "Lucida Grande";
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+}
+.bottomfont
+{
+	color: #dfbf9f;
+    margin-left: 5%;
+    font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+    font-size: 18px;
+    font-style: normal;
+}
+.btn-font
+{
+	color: #d2a679;
+    font-size: 14px;
+    
+}
+
+
+
+.main-nav .btn-circle {
+    border: 3px solid #abab9f;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding: 7px 0;
+    font-size: 12px;
+    border-radius: 50%;
+    margin: 20px 5px 20px 40px;
+}
